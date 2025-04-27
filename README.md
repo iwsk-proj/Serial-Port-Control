@@ -1,6 +1,5 @@
 # IWSK Project
-# Prosta aplikacja desktopowa w Pythonie z interfejsem graficznym (Tkinter) do konfiguracji, monitorowania i komunikacji przez port szeregowy (RS-232). Wykorzystuje bibliotekę `pyserial`.
-
+# A simple desktop application in Python with a graphical interface (Tkinter) for configuration, monitoring and communication via a serial port (RS-232). It uses the pyserial library.
 
 ## Setting up and running
 Open a terminal, navigate to the main directory and execute the following commands:
